@@ -1,0 +1,17 @@
+.hide{
+    width: 0; height: 0;
+    font-size: 0; line-height: 0;
+    position: absolute;
+    visibility: hidden;
+}
+/* 1172
+폰트 12
+폰트 14
+폰트 34
+color : 
+검은색: #000
+화이트: #fff
+약간화이트 #e8e8e8
+약간 검은색 #3d4144
+밝은 회색 #888888
+레드 #ca7379 */
